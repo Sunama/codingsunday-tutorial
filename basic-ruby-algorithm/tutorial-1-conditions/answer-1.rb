@@ -11,14 +11,13 @@ if input1 > input2
   puts "1st number is more than 2nd number"
 elsif input1 < input2
   input = input2
-  puts "1st & 2st number are equal"
+  puts "2nd number is more than 1st number"
 else
   input = input1
-  puts "2nd number is more than 1st number"
+  puts "1st & 2st number are equal"
 end
 
-if input % 2
-  if input % 2
+if input % 2 == 0
   puts "Number is even"
 else
   puts "Number is odd"

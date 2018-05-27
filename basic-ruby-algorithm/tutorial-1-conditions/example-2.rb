@@ -1,7 +1,7 @@
 puts "Please input the number: "
 input = gets.to_i
 
-if input % 2
+if input % 2 == 0
   if input >= 10
     puts "Number is even and have value more than or equal to 10"
   else
