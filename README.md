@@ -1,1 +1,1 @@
-codingsunday-tutorial
+This is basic algorithum base on ruby, If you need to find the article please visit https://www.codingsunday.com/ (All content are thai).
